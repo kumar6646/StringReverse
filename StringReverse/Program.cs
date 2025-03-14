@@ -20,6 +20,7 @@ namespace StringReverse
             if(a==b)
             {
                 Console.WriteLine("it is palindrom");
+                Console.WriteLine("New Line Added");
             }
             else
             {
